@@ -29,7 +29,6 @@ A simple RESTful API for managing songs built with Go and Gin.
   "released": 2025
 }
 ```
-````
 
 ## Getting Started
 
